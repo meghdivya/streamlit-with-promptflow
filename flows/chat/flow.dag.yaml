@@ -29,6 +29,6 @@ nodes:
     path: chat_node.jinja2
   inputs:
     prompt_to_execute: ${chat_prompt.output}
-    deployment_name: gpt-4-turbo
+    deployment_name: gpt-35-turbo
   connection: azure_open_ai_connection
   api: chat

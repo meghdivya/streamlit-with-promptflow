@@ -1,4 +1,4 @@
-promptflow==1.2.0
-promptflow-tools==1.0.2
+promptflow==1.9.0
+promptflow-tools==1.4.0
 streamlit
 keyrings.alt
